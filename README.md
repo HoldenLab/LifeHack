@@ -8,4 +8,4 @@ Build instructions/tips
 Manuscript
 
 
-![circuitdiagram](/images/circuitdiagram.jpg)
+![circuitdiagram](/Images/circuitdiagram.jpg)
