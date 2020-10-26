@@ -3,7 +3,7 @@
 
 This GitHub repository contains everything needed to construct and set up your own version of the LifeHack microsope
 
-![Microscope low angle](https://github.com/Joshedwards222/LifeHack/blob/master/Images/Microscope-body_Low_angle.png =300x100)
+![Microscope low angle](https://github.com/Joshedwards222/LifeHack/blob/master/Images/Microscope-body_Low_angle.png | width=300)
 
 The LifeHack microscope is an open-source system designed to provide an easily modifiable, modular platform for live cell SMLM imaging. It has been contructed from comercially available and 3D printed parts to simply the build process while retaining adaptability.
 
