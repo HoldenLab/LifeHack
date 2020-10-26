@@ -8,4 +8,4 @@ Build instructions/tips
 Manuscript
 
 
-![circuitdiagram](https://github.com/Joshedwards222/LifeHack/master/Image/circuitdiagram.jpg)
+![circuitdiagram](https://github.com/Joshedwards222/LifeHack/tree/master/Images/circuitdiagram)
