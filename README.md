@@ -6,3 +6,6 @@ STEP file for design
 Parts List
 Build instructions/tips
 Manuscript
+
+
+![circuitdiagram](/images/circuitdiagram.jpg)
