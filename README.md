@@ -12,4 +12,4 @@ The LifeHack microscope is an open-source system designed to provide an easily m
 
 
 
-![circuitdiagram](https://github.com/Joshedwards222/LifeHack/blob/master/Images/Circuit%20Diagram.jpg)
+![circuitdiagram](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/Line%20Drawings/Circuit%20Diagram.jpg)
