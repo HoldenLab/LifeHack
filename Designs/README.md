@@ -4,8 +4,17 @@ This folder contains the necessary designs to replicate the LifeHack microscope 
 
 ## LifeHack Build/Alignment Tips
 
-\tableofcontents
-
+## Contents
+* [Using This Document](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/README.md#using-this-document)
+* [Main Body](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/README.md#main-body)
+    * [Infinity Cubes](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/README.md#infinity-cubes)
+* [Excitation Module](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/README.md#excitation-module)
+* [Beam Expansion Module](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/README.md#beam-expansion-module)
+* [Connecting Modules](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/README.md#connecting-modules)
+* [Incubation Box/Heater](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/README.md#incubation-box/heater)
+    * [Air Diffusers](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/README.md#air-diffusers)
+    * [Adding the Box to the System](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/README.md#adding-the-box-to-the-system)
+    * [Heater Setup](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/README.md#heater-setup)
 ### Using This Document
 
 This document is designed to supplement the 3D model of the microscope not as a stand alone instruction manual. A basic level of experience in building and aligning optical systems is assumed so only areas where the build process deviates from what would be considered standard practice are specifically included.
