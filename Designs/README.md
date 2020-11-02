@@ -25,21 +25,13 @@ For elements of the build relating to controlling commercially available compone
 
 Alignment of the main body of the microscope is greatly aided by the use of a dedicated alignment laser with interchangeable screw mounts. This allows for mounting of the laser at various ports and on sections of rail.
 
-\begin{figure}[H]
-    \centering
-        \includegraphics[width=10cm]{Figures/AlignmentLaser.jpg}
-        \caption{}
-\end{figure}
+<img src="https://github.com/Joshedwards222/LifeHack/blob/master/Images/Build/AlignmentLaser.jpg" width="400">
 
 #### Infinity Cubes
 
 The two vertically mounted Infinity Cubes need to have their filter cubes mounted the other way up to standard. To achieve this the top and bottom plates need to be removed and swapped before fitting in to the microscope.
 
-\begin{figure}[H]
-    \centering
-        \includegraphics[width=10cm]{Figures/InfinityCube1.jpg}
-        \caption{}
-\end{figure}
+<img src="https://github.com/Joshedwards222/LifeHack/blob/master/Images/Build/InfinityCube1.jpg" width="400">
 
 The desired set up can be found in the microscope 3D model.
 
@@ -67,15 +59,14 @@ As the Main Body and Excitation modules are self contained on boards they can be
 * Remove the "top filter mounts" from the top panel to reveal the slits beneath.
 * Measure and cut the diffuser felt to fit the slits.
 
-\begin{figure}[H]
-    \centering
-        \includegraphics[width=10cm]{Figures/BoxBuild1.jpg}
-        \caption{}
-\end{figure}
+<img src="https://github.com/Joshedwards222/LifeHack/blob/master/Images/Build/BoxBuild1.jpg" width="400">
 
 * Pull the diffuser a short way through one of the slits and re attach the corresponding "top filter mount" to hold it in place.
 * To do this, pull the diffuser to one side and attach the row of screws on the opposite side. 
 * Then, using a screwdriver or similar, poke through the holes on the other side to put holes through the diffuser material and attache the screws on this side
+
+<img src="https://github.com/Joshedwards222/LifeHack/blob/master/Images/Build/BoxBuild2.jpg" width="400">
+<img src="https://github.com/Joshedwards222/LifeHack/blob/master/Images/Build/BoxBuild3.jpg" width="400">
 
 \begin{figure}[H]
 \begin{minipage}{.5\textwidth}
@@ -93,11 +84,7 @@ As the Main Body and Excitation modules are self contained on boards they can be
 * Pull the loose side of the diffuser across the D-shaped diffuser mounts and pass it through the slit on the other side.
 * Pull the diffuser taught across the mounts to ensure a good fit and secure it with the corresponding "top filter mount".
 
-\begin{figure}[H]
-    \centering
-        \includegraphics[width=10cm]{Figures/BoxBuild4.jpg}
-        \caption{}
-\end{figure}
+<img src="https://github.com/Joshedwards222/LifeHack/blob/master/Images/Build/BoxBuild4.jpg" width="400">
 
 * Repeat the above steps for the second diffuser then reattach the now completed top panel to the rest of the box. 
 
@@ -119,20 +106,12 @@ As the Main Body and Excitation modules are self contained on boards they can be
 * Remove the "Back Air-hose Covers" from the box.
 * Using Epoxy, for each cover attach the flared air-hose connector.
 
-\begin{figure}[H]
-    \centering
-        \includegraphics[width=10cm]{Figures/HeaterMount1.jpg}
-        \caption{}
-\end{figure}
+<img src="https://github.com/Joshedwards222/LifeHack/blob/master/Images/Build/HeaterMount1.jpg" width="400">
 
 * Allow this to set for about 20 minutes (refer to epoxy for precise time).
 * For the top two "Back Air-hose covers", use the Epoxy to attach the non-flared air hose connectors from the opposite side to the flared connector.
 
-\begin{figure}[H]
-    \centering
-        \includegraphics[width=10cm]{Figures/HeaterMount2.jpg}
-        \caption{}
-\end{figure}
+<img src="https://github.com/Joshedwards222/LifeHack/blob/master/Images/Build/HeaterMount2.jpg" width="400">
 
 * Leave the 4 assemblies to set for 3 hours (refer to epoxy for precise time).
 * Before reattaching the assemblies to the back of the box, measure and cut the air-hose to length for each of the 4 connections.
@@ -140,6 +119,8 @@ As the Main Body and Excitation modules are self contained on boards they can be
 **PUT PHOTO OF CUTTING HERE**
 
 * Once cut, attach the air-hoses to the heater and then to the attachment assemblies (Utilise a screwing action following the direction of the structural wire in the air hose).
+
+<img src="https://github.com/Joshedwards222/LifeHack/blob/master/Images/Build/HeaterMount5.jpg" width="400">
 
 \begin{figure}[H]
     \centering
