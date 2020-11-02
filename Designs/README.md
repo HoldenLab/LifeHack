@@ -4,7 +4,7 @@ This folder contains the necessary designs to replicate the LifeHack microscope 
 
 ## LifeHack Build/Alignment Tips
 
-## Contents
+### Contents
 * [Using This Document](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/README.md#using-this-document)
 * [Main Body](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/README.md#main-body)
     * [Infinity Cubes](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/README.md#infinity-cubes)
