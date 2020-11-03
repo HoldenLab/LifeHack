@@ -6,3 +6,4 @@ It is usually easier to interrogate the designs on a modular level:
 * [Excitation-Module](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/CAD/Excitation-Module.step)
 * [Beam-Expansion-Module](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/CAD/Beam-Expansion-Module.step)
 * [Main-Body](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/CAD/Main-Body.step)
+* [Incubation-Chamber](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/CAD/Incubation-Chamber.step)
