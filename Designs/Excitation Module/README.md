@@ -2,7 +2,7 @@
 
 This folder contains everything needed to build the excitation module
 
-<src=https://github.com/Joshedwards222/LifeHack/blob/Module-Format/Designs/Excitation%20Module/Line_Excitation.jpg>
+<img src="https://github.com/Joshedwards222/LifeHack/blob/Module-Format/Designs/Excitation%20Module/Line_Excitation.jpg" width="500">
 
 ## Parts
 
