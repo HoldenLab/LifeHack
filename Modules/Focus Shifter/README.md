@@ -3,6 +3,8 @@ _To add in-sample offset shift to reflection autofocus systems (either home buil
 
 We developed an Arduino based controller for shifting the focus lock position of reflection based autofocus systems. 
 
+<img src="https://github.com/HoldenLab/LifeHack/blob/Module-Format/Images/Focus-Shifter.jpg" width="250">
+
 ## Items required
 ### Electronics:
 - ASI crisp or other reflection based autofocus system
@@ -15,7 +17,8 @@ We developed an Arduino based controller for shifting the focus lock position of
 - 2x MXL Rubber Timing Belt W1/4, L 12.00 in.  RS Stock no.: 7785089
 - Mini breadboard
 - Wires
-- 2x push switches
+- dpdt switch
+- spade crimp connectors
 ### Optics & Optomechanics
 - 1” F=100mm biconvex lens (NIR coated)
 - SM1 Zoom Housing for Ø1" Optics, Non-Rotating, 2" (50.8 mm) Travel SM1NR1
@@ -50,7 +53,7 @@ Although this implementation is built around an ASI CRISP, in principle it shoul
 
 Autofocus diagram:
 
-<img src="images/motor-tube-lens-sketch.png" height="600"/>
+<img src="Focus-Shifter-Line.png" height="600"/>
 
 Autofocus photos:
 
