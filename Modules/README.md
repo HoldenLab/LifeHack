@@ -98,19 +98,6 @@ As the Main Body and Excitation modules are self contained on boards they can be
 <img src="https://github.com/Joshedwards222/LifeHack/blob/master/Images/Build/BoxBuild2.jpg" width="400">
 <img src="https://github.com/Joshedwards222/LifeHack/blob/master/Images/Build/BoxBuild3.jpg" width="400">
 
-\begin{figure}[H]
-\begin{minipage}{.5\textwidth}
-    \centering
-        \includegraphics[width=7cm]{Figures/BoxBuild2.jpg}
-        \caption{}
-\end{minipage}
-\begin{minipage}{.5\textwidth}
-\centering
-        \includegraphics[width=7cm]{Figures/BoxBuild3.jpg}
-        \caption{}
-\end{minipage}
-\end{figure}
-
 * Pull the loose side of the diffuser across the D-shaped diffuser mounts and pass it through the slit on the other side.
 * Pull the diffuser taught across the mounts to ensure a good fit and secure it with the corresponding "top filter mount".
 
@@ -120,11 +107,7 @@ As the Main Body and Excitation modules are self contained on boards they can be
 
 ### Adding the Box to the system
 
-\begin{center}
-
 **This is a two person job**
-
-\end{center}
 
 * Check the box is securely assembled before lifting.
 * Open hatch doors on the two side panels and remove the "top cover" on the top panel to provide handholds.
@@ -151,9 +134,3 @@ As the Main Body and Excitation modules are self contained on boards they can be
 * Once cut, attach the air-hoses to the heater and then to the attachment assemblies (Utilise a screwing action following the direction of the structural wire in the air hose).
 
 <img src="https://github.com/Joshedwards222/LifeHack/blob/master/Images/Build/HeaterMount5.jpg" width="400">
-
-\begin{figure}[H]
-    \centering
-        \includegraphics[width=10cm]{Figures/HeaterMount5.jpg}
-        \caption{}
-\end{figure}
