@@ -51,7 +51,7 @@ Although this implementation is built around an ASI CRISP, in principle it shoul
 
 Autofocus diagram:
 
-<img src="images/motor-tube-lens-sketch.png" height="600"/>
+<img src="Images/Focus-Shifter-line.png" height="600"/>
 
 Autofocus photos:
 
