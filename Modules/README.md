@@ -40,17 +40,16 @@ Simple schematic diagrams of the optical paths through the microscope system. Th
 Also inculded is a circuit diagram of the control wiring of the microscope.
 
 ### Excitation Module
-![excitation](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/Line%20Drawings/Line_Excitation.jpg)
+<img src="https://github.com/Joshedwards222/LifeHack/blob/master/Designs/Line%20Drawings/Line_Excitation.jpg" width="600">
 
 ### Beam Expansion Module
-![expansion](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/Line%20Drawings/Line_Expansion.jpg)
+<img src="https://github.com/Joshedwards222/LifeHack/blob/master/Designs/Line%20Drawings/Line_Expansion.jpg" width="600">
 
 ### Main Body
-![main_body](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/Line%20Drawings/Line_MainBody.jpg)
+<img src="https://github.com/Joshedwards222/LifeHack/blob/master/Designs/Line%20Drawings/Line_MainBody.jpg" width="600">
 
 ### Wiring
-![circuitdiagram](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/Line%20Drawings/Circuit%20Diagram.jpg)
-
+<img src="https://github.com/Joshedwards222/LifeHack/blob/master/Designs/Line%20Drawings/Circuit%20Diagram.jpg" width="900">
 
 ## Main Body
 
