@@ -15,7 +15,7 @@ We developed an Arduino based controller for shifting the focus lock position of
 - 2x MXL Rubber Timing Belt W1/4, L 12.00 in.  RS Stock no.: 7785089
 - Mini breadboard
 - Wires
-- 2x push switches
+- dpdt switch
 ### Optics & Optomechanics
 - 1” F=100mm biconvex lens (NIR coated)
 - SM1 Zoom Housing for Ø1" Optics, Non-Rotating, 2" (50.8 mm) Travel SM1NR1
