@@ -16,6 +16,7 @@ We developed an Arduino based controller for shifting the focus lock position of
 - Mini breadboard
 - Wires
 - dpdt switch
+- spade crimp connectors
 ### Optics & Optomechanics
 - 1” F=100mm biconvex lens (NIR coated)
 - SM1 Zoom Housing for Ø1" Optics, Non-Rotating, 2" (50.8 mm) Travel SM1NR1
