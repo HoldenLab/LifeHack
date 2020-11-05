@@ -3,6 +3,8 @@ _To add in-sample offset shift to reflection autofocus systems (either home buil
 
 We developed an Arduino based controller for shifting the focus lock position of reflection based autofocus systems. 
 
+<img src="https://github.com/Joshedwards222/LifeHack/blob/master/Images/Build/AlignmentLaser.jpg" width="400">
+
 ## Items required
 ### Electronics:
 - ASI crisp or other reflection based autofocus system
