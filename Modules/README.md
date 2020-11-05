@@ -13,6 +13,11 @@ For those using Autodesk's [Fusion 360](https://www.autodesk.co.uk/products/fusi
 
 ## Contents
 * [Using This Document](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/README.md#using-this-document)
+* [Line Drawings](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/README.md#Line-Drawings)
+   * [Excitation Module](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/README.md#Excitation-Module)
+   * [Beam Expansion Module](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/README.md#Beam-Expansion-Module)
+   * [Main Body](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/README.md#Main-Body)
+   * [Wiring](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/README.md#Wiring)
 * [Main Body](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/README.md#main-body)
     * [Infinity Cubes](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/README.md#infinity-cubes)
 * [Excitation Module](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/README.md#excitation-module)
@@ -27,6 +32,25 @@ For those using Autodesk's [Fusion 360](https://www.autodesk.co.uk/products/fusi
 This document is designed to supplement the 3D model of the microscope not as a stand alone instruction manual. A basic level of experience in building and aligning optical systems is assumed so only areas where the build process deviates from what would be considered standard practice are specifically included.
 
 For elements of the build relating to controlling commercially available components such as electrical connections and software please refer to the relevant manual.
+
+## Line Drawings
+
+This folder contains simple schematic diagrams of the optical paths through the microscope system. These are intended to be useful references for the principles of operation of the microscope and to give clarity to the 3D CAD models.
+
+Also inculded is a circuit diagram of the control wiring of the microscope.
+
+### Excitation Module
+![excitation](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/Line%20Drawings/Line_Excitation.jpg)
+
+### Beam Expansion Module
+![expansion](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/Line%20Drawings/Line_Expansion.jpg)
+
+### Main Body
+![main_body](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/Line%20Drawings/Line_MainBody.jpg)
+
+### Wiring
+![circuitdiagram](https://github.com/Joshedwards222/LifeHack/blob/master/Designs/Line%20Drawings/Circuit%20Diagram.jpg)
+
 
 ## Main Body
 
