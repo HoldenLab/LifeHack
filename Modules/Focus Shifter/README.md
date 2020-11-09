@@ -15,7 +15,6 @@ We developed an Arduino based controller for shifting the focus lock position of
 - 12V power supply: Plugtop PSU UK unregulated 3-12Vdc 6W RS Stock no.: 6158880
 - Pulley: MXL Plastic Pulley with insert teeth 18 RS Stock no.: 7784714
 - 2x MXL Rubber Timing Belt W1/4, L 12.00 in.  RS Stock no.: 7785089
-- Mini breadboard
 - Wires
 - dpdt switch
 - spade crimp connectors
