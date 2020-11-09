@@ -55,16 +55,16 @@ Autofocus diagram:
 
 <img src="Focus-Shifter-Line.png" height="600"/>
 
-<img src="https://github.com/HoldenLab/LifeHack/blob/Module-Format/Images/Switch.jpg" height="600"/>
-<img src="https://github.com/HoldenLab/LifeHack/blob/Module-Format/Images/Switch-Connected.jpg" height="600"/>
+<img src="https://github.com/HoldenLab/LifeHack/blob/Module-Format/Images/Switch.jpg" width="400"/>
+<img src="https://github.com/HoldenLab/LifeHack/blob/Module-Format/Images/Switch-Connected.jpg" width="400"/>
 
 Autofocus photos:
 
 <img src="images/autofocus-view1.jpg" height="300"/>
 
-<img src="images/autofocus-view2.jpg" width="150"/>
+<img src="images/autofocus-view2.jpg" height="300"/>
 
-<img src="images/autofocus-view3.jpg" width="150"/>
+<img src="images/autofocus-view3.jpg" height="300"/>
 
 Arduino wiring:
 
