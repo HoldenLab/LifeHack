@@ -72,7 +72,3 @@ Autofocus photos:
 Arduino wiring:
 
 <img src="images/arduino-wiring-photo.jpg" height="300"/>
-
-World's worst control pad:
-
-<img src="images/motor-control-pad.jpg" height="300"/>
