@@ -5,3 +5,6 @@ This folder contains 2D drawings of the incubation chamber's parts dimentioned t
 Some parts are needed more than once so the quantities are listed below:
 * 2 X Rear-Hose-Mount-Top.dxf
 * 2 X Rear-Hose-Mount-Bottom.dxf
+* 4 X Top-Diffuser-Holder.dxf
+* 2 X Top-Diffuser-Mount-Front.dxf
+* 2 X Top-Diffuser-Mount-Rear.dxf
