@@ -3,7 +3,7 @@ _To add in-sample offset shift to reflection autofocus systems (either home buil
 
 We developed an Arduino based controller for shifting the focus lock position of reflection based autofocus systems. 
 
-<img src="https://github.com/HoldenLab/LifeHack/blob/Module-Format/Images/Focus-Shifter.jpg" width="250">
+<img src="https://github.com/HoldenLab/LifeHack/blob/master/Images/Focus-Shifter.jpg" width="250">
 
 ## Items required
 ### Electronics:
@@ -57,8 +57,9 @@ Autofocus diagram:
 
 Switch:
 
-<img src="https://github.com/HoldenLab/LifeHack/blob/Module-Format/Images/Switch.jpg" width="400"/>
-<img src="https://github.com/HoldenLab/LifeHack/blob/Module-Format/Images/Switch-Connected.jpg" width="400"/>
+<img src="https://github.com/HoldenLab/LifeHack/blob/master/Images/Switch.jpg" width="400"/>
+<img src="https://github.com/HoldenLab/LifeHack/blob/master/Modules/Focus%20Shifter/Switch-line.jpg" width="400"/>
+<img src="https://github.com/HoldenLab/LifeHack/blob/master/Images/Switch-Connected.jpg" width="400"/>
 
 Autofocus photos:
 
