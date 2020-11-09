@@ -55,6 +55,8 @@ Autofocus diagram:
 
 <img src="Focus-Shifter-Line.png" height="600"/>
 
+Switch:
+
 <img src="https://github.com/HoldenLab/LifeHack/blob/Module-Format/Images/Switch.jpg" width="400"/>
 <img src="https://github.com/HoldenLab/LifeHack/blob/Module-Format/Images/Switch-Connected.jpg" width="400"/>
 
