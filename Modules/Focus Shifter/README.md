@@ -52,7 +52,7 @@ Although this implementation is built around an ASI CRISP, in principle it shoul
 
 Autofocus diagram:
 
-<img src="Focus-Shifter-Line.png" height="600"/>
+<img src="Focus-Shifter-Line.png" height="450"/>
 
 
 <img src="https://github.com/HoldenLab/LifeHack/blob/master/Images/FocusShifterAnimation.gif" width="400"/>
