@@ -45,7 +45,7 @@ Although this implementation is built around an ASI CRISP, in principle it shoul
 - Ensure to connect an external 12V power supply to the Arduino board to supply sufficient power to the motor.
 - Code is included to control the stepper motor and microscope focus via Arduino. Download the Arduino IDE, and open the Arduino focus-controller.ino sketch. Install the _Adafruit\_Motor\_Shield\_V2\_Library_ via the _Sketch\>Include Library\>Manage Libraries_ interface. Upload the code to the Arduino board.
 - Connect to the Arduino board and control the motor using the Arduino (or any other) serial monitor interface.
-- In addition to serial monitor control, I also added a very basic UP/ DOWN  manual control with two push buttons wired to Arduino digital I/O pins.
+- In addition to serial monitor control, there is also a dual throw switch to control the lens position
 - Axial magnification is proportional to the square of the lateral magnification. In order for a tube lens shift of several mm to cause sufficient focal shift, we need to use a shorter focal length tube lens for the autofocus, compared to the imaging tube lens. In our case, the (Nikon) imaging tube lens is f=200mm, and the autofocus is f=100mm, reducing the axial autofocus magnification by a factor of 4 – this gives us an ~10 um lock range.
 
 ## Photos
