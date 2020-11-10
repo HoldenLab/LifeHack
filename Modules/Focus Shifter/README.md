@@ -1,6 +1,6 @@
 # FocusShifter: Arduino-based microscope autofocus control
-_To add in-sample offset shift to reflection autofocus systems (either home built or commercial systems such as the ASI CRISP)_
 
+To add in-sample offset shift to reflection autofocus systems (either home built or commercial systems such as the ASI CRISP)
 We developed an Arduino based controller for shifting the focus lock position of reflection based autofocus systems. 
 
 <img src="https://github.com/HoldenLab/LifeHack/blob/master/Images/Focus-Shifter.jpg" width="250">
@@ -58,7 +58,7 @@ Autofocus diagram:
 <img src="https://github.com/HoldenLab/LifeHack/blob/master/Images/FocusShifterAnimation.gif" width="400"/>
 Switch:
 
-<img src="https://github.com/HoldenLab/LifeHack/blob/master/Images/Switch.jpg" width="400"/>
+<img src="https://github.com/HoldenLab/LifeHack/blob/master/Images/Switch.jpg" width="600"/>
 <img src="https://github.com/HoldenLab/LifeHack/blob/master/Modules/Focus%20Shifter/Switch-line.jpg" width="500"/>
 <img src="https://github.com/HoldenLab/LifeHack/blob/master/Images/Switch-Connected.jpg" width="400"/>
 
