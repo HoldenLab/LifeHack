@@ -54,6 +54,8 @@ Autofocus diagram:
 
 <img src="Focus-Shifter-Line.png" height="600"/>
 
+
+<img src="https://github.com/HoldenLab/LifeHack/blob/master/Images/FocusShifterAnimation.gif" width="400"/>
 Switch:
 
 <img src="https://github.com/HoldenLab/LifeHack/blob/master/Images/Switch.jpg" width="400"/>
