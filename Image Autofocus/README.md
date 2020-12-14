@@ -1,1 +1,1 @@
-* Image Autofocus Module*
+** Image Autofocus Module **
