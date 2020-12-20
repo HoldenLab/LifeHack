@@ -4,8 +4,8 @@ This folder contains everything needed to build the Main Body. This also encompa
 
 <a href="https://a360.co/3p1nkNR">View CAD Design</a>
 
-<img src="../Images/Microscope-body.jpg" width="500">
-<img src="../Images/Line_MainBody.jpg" width="500">
+<img src="Microscope-body.jpg" width="500">
+<img src="Line_MainBody.jpg" width="500">
 
 ## Parts
 
