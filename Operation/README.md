@@ -1,3 +1,3 @@
 # Operation
 
-<img src="../Images/Circuit-Diagram.jpg" width=800px>
+<img src="Circuit-Diagram.jpg" width=800px>
