@@ -2,6 +2,8 @@
 
 This folder contains everything needed to build the excitation module
 
+<a href="https://a360.co/3mF2ceR">View CAD Design</a>
+
 <img src="../Images/Microscope-body.jpg" width="500">
 <img src="../Images/Line_MainBody.jpg" width="500">
 
