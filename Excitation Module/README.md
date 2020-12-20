@@ -3,7 +3,7 @@
 This folder contains everything needed to build the excitation module
 
 <img src="../Images/Excitation-Module.jpg" width="500">
-<img src="../Images/Excitation-line.jpg" width="500">
+<img src="../Images/Line_Excitation.jpg" width="500">
 
 ## Parts
 
