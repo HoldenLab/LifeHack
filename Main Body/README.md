@@ -2,8 +2,8 @@
 
 This folder contains everything needed to build the excitation module
 
-<img src="https://github.com/Joshedwards222/LifeHack/blob/Module-Format/Images/Excitation-Module.jpg" width="500">
-<img src="https://github.com/Joshedwards222/LifeHack/blob/Module-Format/Designs/Excitation%20Module/Line_Excitation.jpg" width="500">
+<img src="../Images/Microscope-body.jpg" width="500">
+<img src="../Images/Line_MainBody.jpg" width="500">
 
 ## Parts
 
