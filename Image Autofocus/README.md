@@ -2,4 +2,4 @@
 
 <a href="https://a360.co/3p8be5k">View CAD Design</a>
 
-<img src="../Images/Image-Autofocus.jpg" width="500">
+<img src="Image-Autofocus.jpg" width="500">
