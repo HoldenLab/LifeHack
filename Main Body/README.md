@@ -1,6 +1,6 @@
-# Excitation Module
+# Main Body
 
-This folder contains everything needed to build the excitation module
+This folder contains everything needed to build the Main Body. This also encompasses the Image Autofocus and Focus Shifter sub-modules
 
 <a href="https://a360.co/3mF2ceR">View CAD Design</a>
 
