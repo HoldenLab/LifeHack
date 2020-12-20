@@ -2,7 +2,7 @@
 
 This folder contains everything needed to build the Incubation box
 
-<img src="https://github.com/Joshedwards222/LifeHack/blob/master/Images/Incubation-Box.jpg" width="300">
+<img src="../Images/Incubation-Box.jpg" width="500">
 
 ## Parts
 
