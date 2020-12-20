@@ -2,7 +2,7 @@
 
 This folder contains everything needed to build the Main Body. This also encompasses the Image Autofocus and Focus Shifter sub-modules
 
-<a href="https://a360.co/3mF2ceR">View CAD Design</a>
+<a href="https://a360.co/3p1nkNR">View CAD Design</a>
 
 <img src="../Images/Microscope-body.jpg" width="500">
 <img src="../Images/Line_MainBody.jpg" width="500">
