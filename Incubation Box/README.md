@@ -8,4 +8,6 @@ This folder contains everything needed to build the Incubation box
 
 ## Parts
 
-Contains dimentioned 2D drawings of box components in .DXF form ready for production
+Contains dimentioned 2D drawings of box components in .DXF form ready for production.
+
+All parts are made from 10mm Black 9961 Perspex except the window which is made from 10 mm clear Perspex.
