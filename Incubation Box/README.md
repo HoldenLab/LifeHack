@@ -4,7 +4,7 @@ This folder contains everything needed to build the Incubation box
 
 <a href="https://a360.co/38g8Djh">View CAD Design</a>
 
-<img src="Incubation-Box.jpg" width="500">
+<img src="Incubation-Box.png" width="500">
 
 ## Parts
 
