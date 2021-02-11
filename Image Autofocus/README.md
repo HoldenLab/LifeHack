@@ -2,7 +2,7 @@
 
 This folder contains everything needed to build the Image Autofocus module
 
-<a href="https://a360.co/3p8be5k">View CAD Design</a>
+<a href="https://a360.co/3p8be5k">View CAD Design</a> through A360.com
 
 <img src="Image-Autofocus.jpg" width="500">
 
