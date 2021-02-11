@@ -2,7 +2,7 @@
 
 This folder contains everything needed to build the Focus Shifter module
 
-<a href="https://a360.co/3rbyG3y">View CAD Design</a>
+<a href="https://a360.co/3rbyG3y">View CAD Design</a> through A360.com
 
 <img src="Focus-Shifter.jpg" width="500">
 
