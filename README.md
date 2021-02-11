@@ -1,9 +1,11 @@
 # LifeHack
 **Open source SMLM microscope designs**
 
-This GitHub repository contains all the designs needed to construct and set up your own version of the LifeHack microsope
+This GitHub repository contains all the designs needed to construct and set up your own version of the LifeHack microsope.
 
-<a href="https://a360.co/34cZwOU">View CAD Design</a>
+The full microscope CAD designs are available to view online and download through Autodesk's A360.com platform.
+
+<a href="https://a360.co/34cZwOU">View CAD Design Online</a>
 
 <img src="Microscope-Full.PNG" width="500">
 
