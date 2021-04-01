@@ -13,4 +13,11 @@ The LifeHack microscope is an open-source system designed to provide an easily m
 
 For full documentation please see the <a href="">LifeHack website</a>
 
+### Change Log
+
+  <ul>
+    <li><b>24th February 2021:</b> Initial release of all modules </li>
+    <li><b>1st April 2021:</b> Reduced diameter of 100mm beam expansion lens from 2" to 1"</li>
+  </ul>
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
