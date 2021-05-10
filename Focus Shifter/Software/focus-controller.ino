@@ -224,6 +224,8 @@ void reportStepSize(){
   Serial.println(stepSize);
 }
 void setzero(){// set current position as zero location
+  maxPos = maxPos - curPos;
+  minPos = minPos - curPos;
   curPos=0;
   EEPROM.put(ADDRESS_POS, curPos);
   Serial.println("A"); 
